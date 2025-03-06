@@ -53,14 +53,10 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 ---
 
-## Group Members
 
-This repository was created as part of a group project for the **INFN45: Business Intelligence** course in the **Master’s Programme in Information Systems at Lund University**. 
+This repository was created as part of a project for the **INFN45: Business Intelligence** course in the **Master’s Programme in Information Systems at Lund University**. 
 
-**Group Members:**
-- Alma Magnusson
-- Georgios Tsoupras
-- Nina Ivarsson
+
 
 For any questions or feedback, feel free to open an issue in the repository.
 
