@@ -2,7 +2,7 @@
 
 An analytical project exploring Airbnb listings in Amsterdam using data from Inside Airbnb, Statista, and other sources. This repository focuses on the preprocessing steps required to prepare the datasets for integration into a business intelligence (BI) application for further analysis.
 
-This project was conducted as part of a group assignment for the **INFN45: Business Intelligence** course in the **Master’s Programme in Information Systems at Lund University**.
+
 
 ---
 
@@ -57,6 +57,4 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 This repository was created as part of a project for the **INFN45: Business Intelligence** course in the **Master’s Programme in Information Systems at Lund University**. 
 
 
-
-For any questions or feedback, feel free to open an issue in the repository.
 
