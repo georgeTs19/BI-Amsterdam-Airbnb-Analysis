@@ -13,8 +13,10 @@ An analytical project exploring Airbnb listings in Amsterdam using data from Ins
    - [Reviews Analysis](#reviews-analysis)
    - [Neighbourhood Dynamics for Renters](#neighbourhood-dynamics-for-renters)
    - [Tourism & Hotel Market Insights](#Tourism-&-Hotel-Market-Insights)
-7. [License](#license)
-8. [Project Context](#Project-Context)
+6. [Conclusion](#Conclusion)
+7. [Limitations and Challenges](#Limitations-and-Challenges)
+8. [License](#license)
+9. [Project Context](#Project-Context)
 
 ---
 
@@ -90,6 +92,40 @@ This section includes key insights obtained from the Qlik dashboard, categorized
 - Amsterdam records an annual average of **3.58M hotel guests**, with **17.9M total tourists staying in hotels**.  
 - The peak tourist season is **July and August**, with visitor numbers reaching their highest levels.  
 - **OLS forecasting** predicts continued growth in tourist numbers beyond **2025**, potentially returning to **pre-pandemic levels**.
+
+### Conclusion  
+
+- **Prime Hotspots in Central Amsterdam**: Central areas like **De Baarsjes - Oud-West** and **Centrum-West** lead in revenue and occupancy, attracting high demand from both hosts and renters.  
+- **Preference for Entire Homes**: There is a strong trend towards renting entire homes/apartments, with guests prioritizing privacy and space over private rooms.  
+- **Positive Guest Experiences Drive Success**: Location and high-quality hospitality play a key role in generating positive reviews and repeat bookings.  
+- **High Occupancy in Affordable Areas**: Neighbourhoods like **Bijlmer-Centrum** benefit from competitive pricing, making them attractive options for renters.  
+- **Post-COVID Growth in Tourism**: Amsterdam's tourism sector has rebounded, with hotel stays growing by **148.97%** between **2020-2023**.  
+- **Continued Growth Projections**: Projections indicate sustained growth in both Airbnb and the hotel markets, with tourism expected to return to pre-pandemic levels beyond **2025**.  
+
+### Limitations and Challenges  
+
+While the Qlik dashboard analysis provides valuable insights, there are several limitations and challenges that should be considered:
+
+1. **Data Completeness and Accuracy**:
+   - The accuracy of the insights depends on the completeness and reliability of the data. Missing or outdated listings, as well as incomplete information on properties or host performance, could skew the results.
+   - Certain listings that may no longer be active could still be included in the data, potentially leading to overestimations in metrics like total revenue or occupancy rates.
+
+2. **Temporal Analysis Limitations**:
+   - The data does not account for seasonal variations or changes over time beyond the immediate analysis period, limiting the ability to predict future trends in Airbnb listings or rentals accurately.
+   - While the tourism growth rate shows a post-COVID recovery, it does not account for potential disruptions, such as new regulatory changes or unforeseen events (e.g., pandemics, economic downturns), that could affect both tourism and the short-term rental market.
+
+3. **Absence of Regulatory Data**:
+   - Amsterdam, like many cities, has introduced or may introduce regulations to control short-term rentals. The dashboard does not account for the impact of these regulations (e.g., rental caps or licensing requirements), which could significantly influence the Airbnb market in the future.
+
+4. **Potential Bias in Reviews**:
+   - The high percentage of positive reviews (98.62%) might indicate a bias, as guests with negative experiences are less likely to leave reviews or may be underrepresented. This can give a skewed representation of guest satisfaction and performance for hosts, particularly in areas with a large volume of listings.
+
+5. **Market Segmentation**:
+   - While the analysis captures general trends, it does not delve into the specifics of market segmentation, such as guest demographics (e.g., business vs. leisure travelers), which could provide further insights into pricing behavior and listing preferences.
+
+6. **Limited Comparison with Other Platforms**:
+   - The analysis focuses solely on Airbnb listings, without considering other short-term rental platforms (e.g., Booking.com, Vrbo) that might also contribute significantly to Amsterdam’s accommodation market. This limits the scope of the findings to Airbnb-specific trends and does not provide a complete view of the broader rental market.
+
   
 ## License  
 This project is licensed under the **MIT License**. Feel free to use and modify the code as needed.  
