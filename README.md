@@ -66,21 +66,22 @@ This section includes key insights obtained from the Qlik dashboard, categorized
 **Insights:**  
 - **Revenue Distribution**: The highest revenue is concentrated in central neighbourhoods like **De Baarsjes - Oud-West, Centrum-West, and De Pijp - Rivierenbuurt**, indicating these areas are Airbnb hotspots.  
 - **Room Type Preference**: Entire homes/apartments dominate the revenue stream, making up **88.1%** of total revenue, while private rooms contribute only **10.8%**.  
-- **Occupancy Rate Trends**: Certain neighbourhoods like **Bijlmer-Centrum and Bijlmer-Oost** have occupancy rates above **70%** across all seasons, suggesting strong demand in these areas.  
+- **Occupancy Rate Trends**: Certain neighbourhoods like **Bijlmer-Centrum and Bijlmer-Oost** have occupancy rates above **70%** across all seasons, suggesting strong demand in these areas.
+
+### Neighbourhood Dynamics for Renters  
+![Screenshot 3](screenshots/screenshot3.png)  
+**Insights:**  
+- **Price Variation Across Neighbourhoods**: The highest prices are found in **Buitenveldert - Zuidas, Centrum-West, and Centrum-Oost**, with some listings exceeding **€500 per night**.  
+- **Distance vs. Price Clusters**: Listings closer to the city center tend to have higher prices, while neighbourhoods further from the center exhibit more competitive pricing.  
+- **Occupancy Rates**: **Bijlmer-Centrum, Bos en Lommer, and De Baarsjes - Oud-West** have the highest occupancy rates, suggesting they are preferred locations due to affordability or proximity to major attractions.  
 
 ### Reviews Analysis  
-![Screenshot 3](screenshots/screenshot3.png)  
+![Screenshot 4](screenshots/screenshot4.png)  
 **Insights:**  
 - **Total Reviews**: Over **440.8k reviews** have been recorded, with an overwhelming **98.62% positive feedback rate**.  
 - **Best Performing Hosts**: Some hosts have exceptionally high review rates, with **CityHub averaging 2,907 reviews per listing**, indicating a strong and engaged customer base.  
 - **Common Positive Feedback**: Guests frequently mention **great location, perfect stay, and highly recommended**, emphasizing the importance of location and hospitality quality.  
 
-### Neighbourhood Dynamics for Renters  
-![Screenshot 4](screenshots/screenshot4.png)  
-**Insights:**  
-- **Price Variation Across Neighbourhoods**: The highest prices are found in **Buitenveldert - Zuidas, Centrum-West, and Centrum-Oost**, with some listings exceeding **€500 per night**.  
-- **Distance vs. Price Clusters**: Listings closer to the city center tend to have higher prices, while neighbourhoods further from the center exhibit more competitive pricing.  
-- **Occupancy Rates**: **Bijlmer-Centrum, Bos en Lommer, and De Baarsjes - Oud-West** have the highest occupancy rates, suggesting they are preferred locations due to affordability or proximity to major attractions.  
 
 ### Tourism & Hotel Market Insights  
 ![Screenshot 5](screenshots/screenshot5.png)  
