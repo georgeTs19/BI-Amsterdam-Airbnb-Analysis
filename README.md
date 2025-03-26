@@ -100,7 +100,7 @@ This section includes key insights obtained from the Qlik dashboard, categorized
 - **Positive Guest Experiences Drive Success**: Location and high-quality hospitality play a key role in generating positive reviews and repeat bookings.  
 - **High Occupancy in Affordable Areas**: Neighbourhoods like **Bijlmer-Centrum** benefit from competitive pricing, making them attractive options for renters.  
 - **Post-COVID Growth in Tourism**: Amsterdam's tourism sector has rebounded, with hotel stays growing by **148.97%** between **2020-2023**.  
-- **Continued Growth Projections**: Projections indicate sustained growth in both Airbnb and the hotel markets, with tourism expected to return to pre-pandemic levels beyond **2025**.  
+- **Continued Growth Projections**: Projections indicate sustained growth in both Airbnb and the hotel markets, with tourism expected to surpass the pre-pandemic levels beyond **2025**.  
 
 ### Limitations and Challenges  
 
