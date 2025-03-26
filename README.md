@@ -14,6 +14,7 @@ An analytical project exploring Airbnb listings in Amsterdam using data from Ins
    - [Neighbourhood Dynamics for Renters](#neighbourhood-dynamics-for-renters)
    - [Tourism & Hotel Market Insights](#Tourism-&-Hotel-Market-Insights)
 7. [License](#license)
+8. [Project Context](#Project-Context)
 
 ---
 
@@ -40,13 +41,13 @@ The preprocessing pipeline was implemented in Python using libraries such as `pa
 The complete code for these steps is provided in the `BI-PreProccessingDatasetFINAL.ipynb` notebook.
 
 ## How to Use
-1.Clone this repository:  
+1. Clone this repository:  
    ```bash
    git clone https://github.com/georgeTs19/BI-Amsterdam-Airbnb-Analysis.git
    ```
-2.Download the reviews.csv.gz dataset from the Inside Airbnb website and place it in the datasets folder.
-3.Open the BI-PreProccessingDatasetFINAL.ipynb notebook and run the code to preprocess the datasets.
-4.Use the processed files in a BI application of your choice for further analysis.
+2. Download the reviews.csv.gz dataset from the Inside Airbnb website and place it in the datasets folder.
+3. Open the BI-PreProccessingDatasetFINAL.ipynb notebook and run the code to preprocess the datasets.
+4. Use the processed files in a BI application of your choice for further analysis.
 
 
 ## Qlik Dashboard Analysis & Insights  
@@ -82,4 +83,11 @@ This section includes key insights obtained from the Qlik dashboard, categorized
 - The tourism industry saw a **148.97% growth rate** in hotel stays between **2020-2023**, reflecting a strong post-COVID recovery.  
 - Amsterdam records an annual average of **3.58M hotel guests**, with **17.9M total tourists staying in hotels**.  
 - The peak tourist season is **July and August**, with visitor numbers reaching their highest levels.  
-- **OLS forecasting** predicts continued growth in tourist numbers beyond **2025**, potentially returning to **pre-pandemic levels**.  
+- **OLS forecasting** predicts continued growth in tourist numbers beyond **2025**, potentially returning to **pre-pandemic levels**.
+
+## License  
+This project is licensed under the **MIT License**. Feel free to use and modify the code as needed.  
+
+## Project Context  
+This repository was created as part of a project for the **INFN45: Business Intelligence** course in the **Master’s Programme in Information Systems** at **Lund University**.  
+
