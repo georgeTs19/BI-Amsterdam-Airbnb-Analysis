@@ -40,15 +40,14 @@ The preprocessing pipeline was implemented in Python using libraries such as `pa
 The complete code for these steps is provided in the `BI-PreProccessingDatasetFINAL.ipynb` notebook.
 
 ## How to Use
-1. Clone this repository:  
+1.Clone this repository:  
    ```bash
    git clone https://github.com/georgeTs19/BI-Amsterdam-Airbnb-Analysis.git
+   ```
+2.Download the reviews.csv.gz dataset from the Inside Airbnb website and place it in the datasets folder.
+3.Open the BI-PreProccessingDatasetFINAL.ipynb notebook and run the code to preprocess the datasets.
+4.Use the processed files in a BI application of your choice for further analysis.
 
-Download the reviews.csv.gz dataset from the Inside Airbnb website and place it in the datasets folder.
-
-Open the BI-PreProccessingDatasetFINAL.ipynb notebook and run the code to preprocess the datasets.
-
-Use the processed files in a BI application of your choice for further analysis.
 
 ## Qlik Dashboard Analysis & Insights  
 This section includes key insights obtained from the Qlik dashboard, categorized into different sheets.  
